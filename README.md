@@ -17,15 +17,15 @@ Please try to keep to the numbered headings below as it will make the process of
   - University/Apprenticeship/Other?
   - What does training cost?
 4. Money and Outlook: 
-    - Discuss the earning potential, entry wage, average wage, etc
+  - Discuss the earning potential, entry wage, average wage, etc
 5. Employment: 
-    - What industries employ people in this career field?
+  - What industries employ people in this career field?
 6. Connections: 
-    - List associations or internet sites that would be of interest to a person in this career field. 
+  - List associations or internet sites that would be of interest to a person in this career field. 
 7. Misc: 
-    - What other insight have you gained regarding working in this field?
-    - Any other facts - average incoming grades, Graduation rate, male/female ratio, etc?
+  - What other insight have you gained regarding working in this field?
+  - Any other facts - average incoming grades, Graduation rate, male/female ratio, etc?
 
 ## Closing comments:
-- How do the courses and associated career match up? 
-- How strict is the career progression you have outlined?
+  - How do the courses and associated career match up? 
+  - How strict is the career progression you have outlined?
