@@ -5,19 +5,17 @@ Please try to keep to the numbered headings below as it will make the process of
 
 ## Career
 1. Job Duties & Type of Work: 
-
-    - What is the job description?
-    - What hours/days are required to work?
+  - What is the job description?
+  - What hours/days are required to work?
     
 2. Job Benefits & Job Drawbacks
-
-    - What are the benefits of this career?
-    - What are some things that may not be so great about the career?
+  - What are the benefits of this career?
+  - What are some things that may not be so great about the career?
     
 3. What to learn: 
-     - What courses should you take if you are interested in this career? 
-     - University/Apprenticeship/Other?
-     - What does training cost?
+  - What courses should you take if you are interested in this career? 
+  - University/Apprenticeship/Other?
+  - What does training cost?
 4. Money and Outlook: 
     - Discuss the earning potential, entry wage, average wage, etc
 5. Employment: 
