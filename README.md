@@ -33,10 +33,16 @@ Please try to keep to the numbered headings below as it will make the process of
 
 # Resources
 
-http://www.exeter.ac.uk/careers/
-http://www.jobs.ac.uk/careers-advice/resources/ebooks-and-toolkits/a-practical-guide-to-planning-an-academic-or-research-career
-http://www.iop.org/careers/index.html
-http://www.plotr.co.uk
-http://sciencecouncil.org/careers-from-science/
-http://www.mathscareers.org.uk
+[http://www.exeter.ac.uk/careers/]
+
+[http://www.jobs.ac.uk/careers-advice/resources/ebooks-and-toolkits/a-practical-guide-to-planning-an-academic-or-research-career]
+
+[http://www.iop.org/careers/index.html]
+
+[http://www.plotr.co.uk]
+
+[http://sciencecouncil.org/careers-from-science/]
+
+[http://www.mathscareers.org.uk]
+
 
