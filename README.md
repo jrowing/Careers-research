@@ -41,6 +41,8 @@ Your job is to produce an A4 overview document that will give others in Y12 an o
 
 # Resources
 
+<https://nationalcareersservice.direct.gov.uk/>
+
 <http://www.exeter.ac.uk/careers/>
 
 <http://www.jobs.ac.uk/careers-advice/resources/ebooks-and-toolkits/a-practical-guide-to-planning-an-academic-or-research-career>
