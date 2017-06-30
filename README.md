@@ -29,3 +29,14 @@ Please try to keep to the numbered headings below as it will make the process of
 ## Closing comments:
   - How do the courses and associated career match up? 
   - How strict is the career progression you have outlined?
+
+
+# Resources
+
+http://www.exeter.ac.uk/careers/
+http://www.jobs.ac.uk/careers-advice/resources/ebooks-and-toolkits/a-practical-guide-to-planning-an-academic-or-research-career
+http://www.iop.org/careers/index.html
+http://www.plotr.co.uk
+http://sciencecouncil.org/careers-from-science/
+http://www.mathscareers.org.uk
+
