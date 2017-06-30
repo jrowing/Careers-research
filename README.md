@@ -3,7 +3,16 @@
 The purpose of this research is to start to build a database of research and guidance built by EMS students, for EMS students. I will collect all of your submissions and publish your research such that we may all benefit from your work.
 Please try to keep to the numbered headings below as it will make the process of collation much easier.
 
-## Career
+## Step one:
+Have a go with the amazing career questionaire/game at plotr.co.uk 
+
+<http://www.plotr.co.uk>
+
+
+## For one of the careers it suggests:
+
+Your job is to produce an A4 overview document that will give others in Y12 an overview of that career. You can do this as infographic/mindmap/journal/webpage etc but try to include the following:
+
 1. Job Duties & Type of Work: 
   - What is the job description?
   - What hours/days are required to work?
@@ -25,8 +34,7 @@ Please try to keep to the numbered headings below as it will make the process of
 7. Misc: 
   - What other insight have you gained regarding working in this field?
   - Any other facts - average incoming grades, Graduation rate, male/female ratio, etc?
-
-## Closing comments:
+8. Closing comments:
   - How do the courses and associated career match up? 
   - How strict is the career progression you have outlined?
 
@@ -35,14 +43,12 @@ Please try to keep to the numbered headings below as it will make the process of
 
 <http://www.exeter.ac.uk/careers/>
 
-[http://www.jobs.ac.uk/careers-advice/resources/ebooks-and-toolkits/a-practical-guide-to-planning-an-academic-or-research-career]
+<http://www.jobs.ac.uk/careers-advice/resources/ebooks-and-toolkits/a-practical-guide-to-planning-an-academic-or-research-career>
 
-[http://www.iop.org/careers/index.html]
+<http://www.iop.org/careers/index.html>
 
-[http://www.plotr.co.uk]
+<http://sciencecouncil.org/careers-from-science/>
 
-[http://sciencecouncil.org/careers-from-science/]
-
-[http://www.mathscareers.org.uk]
+<http://www.mathscareers.org.uk>
 
 
